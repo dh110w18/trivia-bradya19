@@ -1,0 +1,70 @@
+{
+    "type" : "FeatureCollection",
+    "features" : [
+      {
+        "type" : "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [40.6833, -74.6360]
+        },
+        "properties": {
+          "name": "Point 1",
+          "icon": "http://www.0to5.com.au/templates/printable/one.htm.jpg",
+          "clues": "<ol><li>The home of the famous Far Hills Race Meeting</li><li>Located in the cetner of Far Hills</li><li>Also home to the revived Essex Horse Trials</li></ol>",
+          "answerLink": "<a href= 'https://en.wikipedia.org/wiki/Far_Hills_Races'>Click for Answer</a>"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [40.696676, -74.617392]
+        },
+        "properties": {
+            "name": "Point 2",
+            "icon": "http://www.0to5.com.au/templates/printable/two.htm.jpg",
+            "clues": "<ol><li>A small private school in Far Hills, NJ</li><li>Runs from Pre-School to 8th grade</li><li>Mascot is the Falcons</li></ol>",
+            "answerLink": "<a href= 'https://www.fhcds.org'>Click for Answer</a>"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [40.6856, -74.6338]
+        },
+        "properties": {
+            "name": "Point 3",
+            "icon": "http://www.0to5.com.au/templates/printable/three.htm.jpg",
+            "clues": "<ol><li>One of the only homes to public transportation in Far Hills</li><li>Located in the cetner of Far Hills</li><li>Right next to Butlers Pantry Trackside, a famous diner type food spot</li></ol>",
+            "answerLink": "<a href= 'https://en.wikipedia.org/wiki/Far_Hills_station'>Click for Answer</a>"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [40.6822, -74.6417]
+        },
+        "properties": {
+            "name": "Point 4",
+            "icon": "http://www.0to5.com.au/templates/printable/four.htm.jpg",
+            "clues": "<ol><li>The best place to get milkshakes in Far Hills</li><li>Can also refill prescriptions here</li><li>Carries a number of other miscelaneous items, including anything from toys to toiletry items to food</li></ol>",
+            "answerLink": "<a href= 'https://www.farhillspharmacy.com'>Click for Answer</a>"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [40.7013, -74.6601]
+        },
+        "properties": {
+            "name": "Point 5",
+            "icon": "http://www.0to5.com.au/templates/printable/five.htm.jpg",
+            "clues": "<ol><li>A private club where guests can ice skate, play paddle, and fox hunt</li><li>Mascot is the foxes</li><li>Most famous events are the Nafus Cup and the Winter Ice Skating Carnival</li></ol>",
+            "answerLink": "<a href= 'http://www.essexhunt.com/Directions-to-EHC'>Click for Answer</a>"
+        }
+      }
+    ]
+  }
