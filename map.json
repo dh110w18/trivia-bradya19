@@ -5,7 +5,7 @@
         "type" : "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [40.6833, -74.6360]
+          "coordinates": [-74.6360, 40.6833]
         },
         "properties": {
           "name": "Point 1",
@@ -18,7 +18,7 @@
         "type" : "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [40.696676, -74.617392]
+          "coordinates": [-74.617392, 40.696676]
         },
         "properties": {
             "name": "Point 2",
@@ -31,7 +31,7 @@
         "type" : "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [40.6856, -74.6338]
+          "coordinates": [-74.6338, 40.6856]
         },
         "properties": {
             "name": "Point 3",
@@ -44,7 +44,7 @@
         "type" : "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [40.6822, -74.6417]
+          "coordinates": [-74.6417, 40.6822]
         },
         "properties": {
             "name": "Point 4",
@@ -57,7 +57,7 @@
         "type" : "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [40.7013, -74.6601]
+          "coordinates": [-74.6601, 40.7013]
         },
         "properties": {
             "name": "Point 5",
