@@ -24,7 +24,7 @@
             "name": "Point 2",
             "icon": "http://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png",
             "clues": "<ol><li>A small private school in Far Hills, NJ</li><li>Runs from Pre-School to 8th grade</li><li>Mascot is the Falcons</li></ol>",
-            "answerLink": "Click <a href= 'https://www.fhcds.org' target= '_blank'>here</a>for Answer"
+            "answerLink": "Click <a href= 'https://www.fhcds.org' target= '_blank'>here</a> for Answer"
         }
       },
       {
@@ -50,7 +50,7 @@
             "name": "Point 4",
             "icon": "http://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png",
             "clues": "<ol><li>The best place to get milkshakes in Far Hills</li><li>Can also refill prescriptions here</li><li>Carries a number of other miscelaneous items, including anything from toys to toiletry items to food</li></ol>",
-            "answerLink": "Click<a href= 'https://www.farhillspharmacy.com' target= '_blank'>here</a> for Answer"
+            "answerLink": "Click <a href= 'https://www.farhillspharmacy.com' target= '_blank'>here</a> for Answer"
         }
       },
       {
@@ -63,7 +63,7 @@
             "name": "Point 5",
             "icon": "http://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png",
             "clues": "<ol><li>A private club where guests can ice skate, play paddle, and fox hunt</li><li>Mascot is the foxes</li><li>Most famous events are the Nafus Cup and the Winter Ice Skating Carnival</li></ol>",
-            "answerLink": "Click<a href= 'http://www.essexhunt.com/Directions-to-EHC' target= '_blank'>here</a> for Answer"
+            "answerLink": "Click <a href= 'http://www.essexhunt.com/Directions-to-EHC' target= '_blank'>here</a> for Answer"
         }
       }
     ]
